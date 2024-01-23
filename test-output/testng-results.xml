@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T09:56:26 IST" name="Default suite" finished-at="2024-01-18T09:56:37 IST" duration-ms="10872">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T09:56:26 IST" name="Default test" finished-at="2024-01-18T09:56:37 IST" duration-ms="10872">
+      <class name="BasicPom.TiraTest">
+        <test-method signature="PerfumeTest()[pri:0, instance:BasicPom.TiraTest@a38c7fe]" started-at="2024-01-18T09:56:26 IST" name="PerfumeTest" finished-at="2024-01-18T09:56:37 IST" duration-ms="10790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PerfumeTest -->
+      </class> <!-- BasicPom.TiraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
